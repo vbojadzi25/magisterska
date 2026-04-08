@@ -1,0 +1,1190 @@
+Finance & Taxation
+Oblìk ì fìnansi [Accounting and Finance], Issue 4(106), 2024 15
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+УДК 336.717
+JEL Classification E58, G21, G28, G29, O36
+DOI https://doi.org/10.33146/2307-9878-2024-4(106)-15-26
+Aliakbar Abbasov1
+Azerbaijan State University of Economics, Baku, Azerbaijan
+The Development of Open Banking and the Analysis of Third-Party Providers
+in Azerbaijan
+Abstract. The concept of open banking emerged less than 10 years ago, but today, millions of people in Europe use
+open banking products. In particular, in the UK, more than half of consumers have used them at least once.
+In Azerbaijan, the Central Bank took the first step towards implementing open banking in 2018, creating an instant
+payment system. In October 2021, the Central Bank of the Republic of Azerbaijan presented the Open Banking
+Roadmap for 2021-2025. This study reflects the current situation of introducing the open banking model in Azerbaijan.
+The primary research objective is to provide an overview of the open banking landscape in Azerbaijan, enhance
+information accessibility, and position it as a subject for comparative analysis with open banking practices adopted in
+various global regions. The author used qualitative methodology, including content analysis and comparison methods,
+to assess the readiness of the current financial sector for the open banking approach, its features, the development of
+third-party providers (TPPs), and the interest in the open banking approach. The official website of the Central Bank of
+the Republic of Azerbaijan and the results of previous independent research are the sources of data on open banking in
+Azerbaijan that were used for the analysis. The analysis revealed a limited development of TPPs offering open banking
+services and deficiencies related to the structural aspects of explicit consent in Azerbaijan. Although the
+implementation of open banking in Azerbaijan is somewhat later than in other countries, the steps taken by the
+government indicate a prospect for the rapid development of the open banking model. An important step in this
+direction was the adoption of the Law "On Payment Services and Payment Systems" covering open banking, the
+acquisition of licenses by TPPs within the framework of the regulatory approach, support of open banking services, and
+API support. Azerbaijan's current open banking development follows the regulatory-based European model and the
+Berlin Group standard for API security. It is considered more secure than other market-based and hybrid approaches
+in ensuring customer safety in open banking. For the faster development of the open banking model in Azerbaijan,
+features such as ease of use, speed of transactions, security, elimination of forced dependence on multiple banking
+applications using TPPs, and the ability to control personal financial data features should be presented to the society
+with social networks, and other by means.
+Keywords: open banking, fintech, third-party providers, regulation in the banking sector, Berlin Group, Revised
+Payment Services Directive.
+Suggested Citation
+Abbasov, A. (2024). The Development of Open Banking and the Analysis of Third-Party Providers in Azerbaijan.
+Oblik i finansi, 4(106), 15-26. https://doi.org/10.33146/2307-9878-2024-4(106)-15-26
+
+
+1 Aliakbar Abbasov, Azerbaijan State University of Economics, Baku, Azerbaijan.
+ORCID 0009-0002-1569-8045
+E-mail: aliakbar.abbasov@unec.edu.az 
+Фінанси та оподаткування
+16 Облік і фінанси, № 4(106), 2024
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+Аліакбар Аббасов
+Азербайджанський державний економічний університет, м. Баку, Азербайджан
+Розвиток відкритого банкінгу та аналіз сторонніх постачальників
+в Азербайджані
+Анотація. Концепція відкритого банкінгу виникла відносно недавно, але вже сьогодні у Європі продуктами
+відкритого банкінгу користуються мільйони людей. Зокрема, у Великій Британії більш як половина споживачів
+задіяли їх хоча б раз. В Азербайджані Центральний банк зробив перший крок до впровадження відкритого
+банкінгу в 2018 році, створивши систему миттєвих платежів. У жовтні 2021 року Центральний банк
+Республіки Азербайджан представив Дорожню карту розвитку відкритого банкінгу на 2021-2025 роки. Мета
+цього дослідження – презентувати огляд ландшафту відкритого банкінгу в Азербайджані, результати якого
+будуть основою для порівняльного аналізу з практикою відкритого банкінгу, прийнятою в різних регіонах
+світу. Автор використав якісну методологію, включаючи контент-аналіз та методи порівняння, щоб оцінити
+готовність суб’єктів фінансового сектору до впровадження відкритого банкінгу, його особливості, розвиток
+сторонніх постачальників та зацікавленість у моделі відкритого банкінгу. Джерелами інформації про
+відкритий банкінг в Азербайджані, яка була використана для аналізу, є офіційний сайт Центрального банку
+Республіки Азербайджан та результати попередніх незалежних досліджень. Результати проведеного аналізу
+вказують на обмежений розвиток сторонніх постачальників, що пропонують послуги відкритого банкінгу, а
+також недоліки, пов’язані зі структурними аспектами явної згоди в Азербайджані. Хоча впровадження
+відкритого банкінгу в Азербайджані відбувається дещо пізніше, ніж в інших країнах, кроки, зроблені урядом,
+вказують на перспективу швидкого розвитку моделі відкритого банкінгу в країні. Важливим кроком у цьому
+напрямку стало прийняття Закону «Про платіжні послуги та платіжні системи», який стосується
+відкритого банкінгу, отримання ліцензій сторонніми постачальниками в рамках регуляторного підходу,
+підтримки послуг відкритого банкінгу, та технічної підтримки API. Поточний розвиток відкритого банкінгу в
+Азербайджані слідує європейській моделі, що базується на нормативних актах і стандарті Берлінської групи
+щодо безпеки API. Цей підхід вважається більш безпечним, ніж інші ринкові та гібридні підходи щодо
+забезпечення безпеки клієнтів у відкритих банківських операціях. Для швидшого розвитку моделі відкритого
+банкінгу в Азербайджані такі функції, як простота використання, швидкість транзакцій, безпека, усунення
+вимушеної залежності від кількох банківських додатків із використанням сторонніх постачальників, а також
+можливість контролювати особисті фінансові дані, повинні бути представлені на розгляд суспільства.
+Ключові слова: відкритий банкінг, фінтех, сторонні постачальники, регулювання в банківському секторі,
+Берлінська група, переглянута Директива про платіжні послуги.
+INTRODUCTION
+Open banking has continued to grow rapidly
+worldwide in recent years. Despite the availability of
+information on the implementation of open banking in
+different countries, it was observed that the literature
+review on open banking in Azerbaijan is quite limited,
+and the availability of information on the implementation
+and current state of open banking is almost at a low level.
+In this regard, this study presented the results reflecting
+the current situation on the introduction of open banking
+in Azerbaijan.
+Firstly, this study presents the concept of open
+banking, the history of open banking development in
+Azerbaijan, and the role of the Central Bank as a
+regulator in the application of open banking.
+It investigated the API security standard and defined the
+steps to increase the potential of using open banking in
+Azerbaijan. In the last part, based on the survey results on
+open banking conducted by the Central Bank of the
+Republic of Azerbaijan between Banks and Third-Party
+Providers (TPPs), the author evaluated the interaction of
+the parties, API support, awareness, and approach to open
+banking. In addition, the article raises some issues on
+open banking service support in Azerbaijan.
+THEORETICAL BACKGROUND
+Open Banking
+The open banking model involves sharing customer
+financial information with third parties through
+standardized APIs or secure channels within the
+framework of national legislation based on their consent.
+The Bank of International Settlements and Organization
+for Economic Co-operation and Development defines the
+concept of open banking as follows: "Open banking is the
+sharing and leveraging of customer-permissioned data by
+banks with third-party developers and firms to build
+applications and services, including, for example, those
+that provide real-time payments, greater financial
+transparency options for account holders, marketing and
+cross-selling opportunities." (Bank for International
+Settlements [BIS], 2019, p.4) and "The concept of Open
+Banking is generally well understood as the practice of
+sharing banking data via standardized and secure
+interfaces at the request of clients." (Organization for
+Economic Co-operation and Development [OECD],
+2023, p.6). Also, open banking is defined as "an initiative
+which facilitates the secure sharing of account data with
+licensed third parties through Application Programming
+Interfaces (APIs), empowering customers with ownership of
+their data" (O'Leary et al., 2021). The European Banking 
+Finance & Taxation
+Oblìk ì fìnansi [Accounting and Finance], Issue 4(106), 2024 17
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+Association defines open banking as "a bridge between two
+worlds" and allows customers to use fintech to access
+banking services while also combining the innovative
+functions of banks and non-banks with infrastructure (Euro
+Banking Association [EBA], 2016). Open banking is seen as
+an evolution based on digital technology that increases
+customers' control over their financial data and increases
+transparency in the banking sector (Mastercard, 2021). Open
+banking allows licensed intermediaries to access client
+financial information and accounts with customers' explicit
+consent (Heybətov, 2021).
+Implementation of open banking will result in lower
+costs of integrating with third parties, creating and
+developing a digital environment, and expanding
+opportunities for sharing and managing customer
+financial information (Həsənov, 2022). "The advantages
+of open banking include radical improvements in
+customer experience and the ability to develop and
+deliver financial products more quickly" (Zeynalova,
+2023, p. 304). Open banking includes the benefits of
+"working better together," "transaction without borders,"
+and "making an impact on customers." (Zhou et al.,
+2022). In addition to increasing financial inclusion, open
+banking offers TPPs the opportunity to provide better
+service and expand the ecosystem through customer
+behaviour analysis (Osmanov, 2023a). "Open banking
+also can address financial exclusion if properly designed"
+(Plaitakis & Staschen, 2020).
+Open banking development history in Azerbaijan
+The United Kingdom ranks first among the leading
+countries that play an important role in applying and
+developing the open banking model. In 2016, the United
+Kingdom became the first country to allow banks access
+to customer data and adopt open banking (Güney, 2023).
+The Central Bank of the Republic of Azerbaijan
+implemented the first official step regarding open
+banking with the "Roadmap for the Implementation of
+Open Banking"1
+covering the years 2021-2025. With this
+presented road map, the data-based research of the
+current open banking in Azerbaijan has been reflected,
+which includes the survey results of banks and fintech, as
+well as the approach and experience of the world
+countries to the open banking model. Along with the
+legal and technical approach to the open banking model
+of Azerbaijan, the future timetable planned for the
+implementation of open banking in the current financial
+sector, as well as the setting of technical and security
+standards, the evaluation and adoption of world
+experience, has been mentioned.
+Steps that were taken regarding Open banking in
+Azerbaijan:
+v On September 26, 2018, the Instant payment
+system was created based on the "State Program for the
+Expansion of Digital Payments in the Republic of
+Azerbaijan in 2018-2020"23
+.
+
+1
+https://www.cbar.az/page-716/open-banking-roadmap?language=en
+2
+https://www.cbar.az/page-479/instant-payments-systemips?language=en
+3
+https://uploads.cbar.az/assets/State%20programme.pdf
+v October 2021, a strategic road map related to open
+banking was presented4
+.
+v In 2022, the integration of banks into the open
+banking platform was completed, and the integration of
+TPP into this platform continued5
+.
+v On July 14, 2023, the law "On Payment Services
+and Payment Systems", which contains the legislative
+basis of open banking, was adopted and entered into force
+on October 14, 20236
+.
+v On January 31, 2024, the "Regulation on the
+Application of the Special Regulatory Regime" was
+approved and entered into force on February 147
+.
+v On March 13, 2024, the "Regulation on the
+implementation of strong customer authentication" was
+approved8
+.
+v From April 2, 2024, the application period for the
+participation of currently operating fintech in the "Special
+Regulation Regime" has been announced, and the
+application period covers the date range of May 1-31, 20249
+.
+v As of September 30, 2024, 13 electronic money
+institutions and 8 payment institutions have received
+licenses and the AniPay portal created by the Central
+Bank of the Republic of Azerbaijan.
+The Central Bank of Azerbaijan will further promote
+the open banking model from 2024 (Osmanov, 2023b).
+In a regional meeting held by the Central Bank of the
+Republic of Azerbaijan on June 14, 2024, with the
+representatives of the central banks of Kazakhstan,
+Kyrgyzstan, Uzbekistan, and Tajikistan, issues related to
+increasing the use of the instant payment system and the
+impact of open banking on the development of fintech
+were discussed (Mərkəzi Asiya ölkələrinin, 2024).
+Open banking model in Azerbaijan
+The open banking model in Azerbaijan includes a
+regulatory approach (Həsənov, 2022). Azerbaijan applies
+open banking based on the steps taken by the United
+Kingdom and Europe on open banking as legislation.
+Below, we will focus on some topics and questions that
+the Central Bank of the Republic of Azerbaijan
+mentioned in the "Roadmap for the Implementation of
+Open Banking" regarding the implementation and future
+activities of open banking in Azerbaijan.
+
+4
+https://uploads.cbar.az/assets/98ce036fa58c999a6e2874dfe.pdf
+5
+https://report.az/maliyye-xeberleri/merkezi-bank-banklarinaciq-bankciliq-platformasina-inteqrasiyasi-basa-catib/
+6
+https://e-qanun.az/framework/54872
+7
+https://www.cbar.az/press-release-4507/on-approval-of-theregulation-on-the-application-of-the-regulatorysandbox?language=en
+8
+https://e-qanun.az/framework/56660
+9
+https://www.cbar.az/press-release-4556/cbar-announcesapplication-dates-to-participate-in-regulatorysandbox?language=en 
+18
+Figure 1.
+Source: Babina, et al. (2024).
+In 2021, the situation regarding open banking in
+Azerbaijan was in the state of "discussion", but
+as of 2024, it is possible to mark the situation regarding
+open banking in Azerbaijan as "implementation".
+The Law "On Payment Services and Payment Systems"
+was adopted in 2023, which includes the Payment Service
+Directive 2 (PSD2) legislation
+adapted by the Central Bank of the Republic of
+Azerbaijan on the financial sector and national
+legislation, which is why we evaluate it as
+"implementation". The law "On payment services and
+payment systems" supports the principles con
+open banking model (Osmanov, 2021). However, despite
+the full implementation of the transition to open banking
+for all banks by 2022, we cannot mark it as "fully
+implemented" given the low level of awareness of open
+banking in society and the weak development of TPPs.
+1. Relationship of parties in open banking
+According to Article 62.1. of the Law "On Payment
+Services and Payment Systems," the Central Bank
+regulates the relationship between the parties
+participating in the open banking model a
+activities. In addition to playing an important role in
+implementing the open banking model and adopting
+standards, the Central Bank of Azerbaijan Republic acts
+as both a regulatory and supporting financial institution
+(Osmanov, 2022). The development of services and
+products will lead to the fact that the participation of the
+Azerbaijan Central Bank, which is the supervisory
+authority in the interaction of the parties, is based on
+ensuring the control of compliance with security and
+legislative requirements, which will lead to a more future
+oriented or completely innovative.
+2. Security standards for Open Banking
+In Azerbaijan, the ISO20022 standard has been
+implemented in the infrastructure of the National
+Payment System since 2021, and t
+ensured in 2022 (CBAR, 2022). The exchange of
+Облік і фінанси, № 4(106),
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+Figure 1. Government-led open banking regimes around the world in 2021
+2024).
+In 2021, the situation regarding open banking in
+Azerbaijan was in the state of "discussion", but currently,
+as of 2024, it is possible to mark the situation regarding
+open banking in Azerbaijan as "implementation".
+Law "On Payment Services and Payment Systems"
+was adopted in 2023, which includes the Payment Service
+Directive 2 (PSD2) legislation adopted in Europe and
+adapted by the Central Bank of the Republic of
+Azerbaijan on the financial sector and national
+legislation, which is why we evaluate it as
+"implementation". The law "On payment services and
+payment systems" supports the principles contained in the
+open banking model (Osmanov, 2021). However, despite
+the full implementation of the transition to open banking
+for all banks by 2022, we cannot mark it as "fully
+implemented" given the low level of awareness of open
+weak development of TPPs.
+Relationship of parties in open banking –
+According to Article 62.1. of the Law "On Payment
+Services and Payment Systems," the Central Bank
+regulates the relationship between the parties
+participating in the open banking model and controls their
+activities. In addition to playing an important role in
+implementing the open banking model and adopting
+standards, the Central Bank of Azerbaijan Republic acts
+as both a regulatory and supporting financial institution
+e development of services and
+products will lead to the fact that the participation of the
+Azerbaijan Central Bank, which is the supervisory
+authority in the interaction of the parties, is based on
+ensuring the control of compliance with security and
+lative requirements, which will lead to a more futureoriented or completely innovative.
+Security standards for Open Banking –
+Azerbaijan, the ISO20022 standard has been
+implemented in the infrastructure of the National
+Payment System since 2021, and the transition was fully
+ensured in 2022 (CBAR, 2022). The exchange of
+information in the Instant Payment System (IPS) is
+adapted to the ISO 20022 standard according to item 3.1.
+"Procedural rules for organizing the activities of
+participants in the Instant
+according to item 3.3.4., the Open Banking module
+(Open Banking REST API) is used for obtaining financial
+information about customers. API standards related to
+open banking in Azerbaijan were developed based on the
+Berlin Gro
+European banks follow Berlin Group standards (Berlin
+Group, n.d.).
+3.
+important to prevent security breaches that may occur
+while sharing financial information related
+with the TPPs based on explicit consent and to protect the
+confidentiality and completeness of the data. To ensure
+security when sharing customer data in open banking,
+Article 35. Authentication (
+Authentication
+Services and Payment Systems"
+·
+account (internet, phone, and other means)
+·
+electronically
+·
+through various channels, during activities that lead to
+risks due to the presence of fraud and various abuses
+·
+strong customer authentication, which includes elements
+dynamically linked to the amount of the trans
+the recipient of the funds when the payment transaction is
+carried out remotely in electronically
+·
+determined by
+·
+payment account shall ensure that the activity is
+performed based on the authentication procedure used by
+the payment initiation service provider and the account
+information service provider.
+Фінанси та оподаткування
+(106), 2024
+1181, www.afj.org.ua
+led open banking regimes around the world in 2021
+information in the Instant Payment System (IPS) is
+adapted to the ISO 20022 standard according to item 3.1.
+"Procedural rules for organizing the activities of
+participants in the Instant Payment System". In addition,
+according to item 3.3.4., the Open Banking module
+(Open Banking REST API) is used for obtaining financial
+information about customers. API standards related to
+open banking in Azerbaijan were developed based on the
+Berlin Group NextGenPSD2 standard. Notably, 75% of
+European banks follow Berlin Group standards (Berlin
+Group, n.d.).
+Security of customer data in open banking
+important to prevent security breaches that may occur
+while sharing financial information related
+with the TPPs based on explicit consent and to protect the
+confidentiality and completeness of the data. To ensure
+security when sharing customer data in open banking,
+Article 35. Authentication (PSD2 2015/2366 Article 97
+Authentication) process of the law "On Payment
+Services and Payment Systems" is applied:
+When the payer accesses the remote payment
+account (internet, phone, and other means);
+When the payment transaction is performed
+electronically;
+When accessing a remote payment account
+hrough various channels, during activities that lead to
+risks due to the presence of fraud and various abuses
+The payment service provider must implement
+strong customer authentication, which includes elements
+dynamically linked to the amount of the trans
+the recipient of the funds when the payment transaction is
+carried out remotely in electronically;
+Requirements for the authentication process are
+determined by the Central Bank of Azerbaijan
+The payment service provider servicing the payer's
+ayment account shall ensure that the activity is
+performed based on the authentication procedure used by
+the payment initiation service provider and the account
+information service provider.
+Фінанси та оподаткування
+information in the Instant Payment System (IPS) is
+adapted to the ISO 20022 standard according to item 3.1.
+"Procedural rules for organizing the activities of
+Payment System". In addition,
+according to item 3.3.4., the Open Banking module
+(Open Banking REST API) is used for obtaining financial
+information about customers. API standards related to
+open banking in Azerbaijan were developed based on the
+up NextGenPSD2 standard. Notably, 75% of
+European banks follow Berlin Group standards (Berlin
+Security of customer data in open banking – It is
+important to prevent security breaches that may occur
+to the client
+with the TPPs based on explicit consent and to protect the
+confidentiality and completeness of the data. To ensure
+security when sharing customer data in open banking,
+PSD2 2015/2366 Article 97
+"On Payment
+When the payer accesses the remote payment
+When the payment transaction is performed
+When accessing a remote payment account
+hrough various channels, during activities that lead to
+risks due to the presence of fraud and various abuses;
+The payment service provider must implement
+strong customer authentication, which includes elements
+dynamically linked to the amount of the transaction and
+the recipient of the funds when the payment transaction is
+Requirements for the authentication process are
+the Central Bank of Azerbaijan;
+The payment service provider servicing the payer's
+ayment account shall ensure that the activity is
+performed based on the authentication procedure used by
+the payment initiation service provider and the account 
+Finance & Taxation
+Oblìk ì fìnansi [Accounting and Finance], Issue 4(106), 2024 19
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+Legislation-based information, requests, and other
+issues related to customers' personal data are regulated by
+the law "On Personal Data". In open banking, the scope
+of services and the option of sharing financial
+information about customers with the TPPs is the full
+legal right of the payment service user, who has the right
+to share based on his explicit consent. The choice of
+information to be shared should be determined on a
+customer-based, self-selected basis, and the option to
+withdraw consent at any time should be provided.
+Acquisition, use, storage, and other approaches to
+personal data are regulated by Article 8. Consent to
+collecting and processing of personal data about the
+subject and Article 9. Basic conditions for collecting and
+processing personal data of the law "On Personal
+Data".
+Increasing the use of open banking
+Due to the statistical increase in the use of digital
+banking in Azerbaijan in recent years and the adaptability
+of the population to innovations, it is possible to note that
+with the introduction of open banking and its presentation
+to customers, the usability of this model will be relatively
+low at the initial stage but will increase in an upward
+direction. By creating awareness about the use of open
+banking within society, creating the right source of
+information about its benefits, and encouraging its use
+through promotional campaigns, the growth in the use of
+open banking will be faster. Emphasizing the advantages
+of using open banking, not only customer-based but also
+related to business subjects, and more manageable cash
+flow monitoring, we can mention the improvement of
+financial management.
+Steps taken to increase the use of open banking in
+Azerbaijan:
+· Implementation of information process related to
+open banking with banks, TPPs, CBAR, and mass media;
+· Informing and supporting business subjects
+regarding the advantages and benefits they will get from
+applying for open banking;
+· Special discounts or privileges are applied to
+purchasing financial services and products, as well as
+products and services obtained through open banking
+through commercial entities;
+· Expanding open banking through mandatory
+implementation for certain services and products.
+· Promoting open banking by introducing a project
+that will attract customer interest, such as
+"VAT refund"10 or a different project.
+The "VAT refund" project was accepted by the
+implementation of Decree No. 414 of the President of the
+Republic of Azerbaijan, dated December 20, 2018.
+Nearly 3 million users were registered on the
+
+10 The "VAT refund" project involves the refund of a certain
+part of the VAT paid for goods purchased in cash (5%) and noncash (17.5%) from trade or catering facilities. The reason for
+implementing this project is that it is aimed at expanding noncash payments and making the country's economy more
+transparent.
+Evdgerial.az portal, and 253 million 405 thousand manats
+of VAT were refunded to users in the first six months of
+202411
+. While this result was 154 million 178.8 thousand
+manats for 202312
+, it was 68.4 million in non-cash
+payments in 2022. From May 2020 to the end of 2021,
+307.6 million manats of VAT were refunded13
+.
+RESEARCH METHODOLOGY
+The author used qualitative methodology (comparison
+and content analysis methods) to evaluate the current
+state of open banking in Azerbaijan, its development
+history, steps to increase its use potential, and the service
+potential of electronic money and payment organizations
+licensed by the Central Bank of the Republic of
+Azerbaijan. In general, a comparative analysis of the
+open banking services of the licensed electronic money
+and payment institutions was carried out, and along with
+this, examples and inconsistencies related to the approach
+to open banking were noted based on a systematic
+comparison. Also, the security, use, availability of
+explicit consent, API support, and potential and currently
+available open banking service support of customer data
+related to open banking were investigated in detail using
+the content analysis method for electronic money and
+payment organizations. The comparative and content
+analysis methods ensure that the research reflects the
+current real situation regarding open banking in
+Azerbaijan, the theoretical value of the obtained results,
+and the detailed analysis of the data.
+Information about open banking was obtained from
+the official website of the Central Bank of the Republic
+of Azerbaijan and each electronic money and payment
+organization. The data necessary for the study were also
+obtained using mobile applications of organizations that
+support open banking.
+RESULTS
+A survey results on open banking in Azerbaijan
+(CBAR, 2021) and the current situation in the TPP
+sector
+According to the evaluation of the "Roadmap for the
+Implementation of Open Banking" covering 2021-2025
+by the Central Bank of the Republic of Azerbaijan,
+various statistics and approaches were obtained based on
+a survey of banks. According to the survey, 48% of banks
+stated that public and private information about
+customers is shared without any common technical
+platform or means. 96% of the banks participating in the
+survey support data sharing with APIs, while 44%
+support sharing with TPPs. Also, 92% of banks have a
+positive attitude towards implementing mutual activities
+with TPPs. In open banking, explicit consent is
+mandatory when sharing customer financial information
+and is considered one of the most important parts of this
+process.
+
+11https://azertag.az/xeber/edv_nin_qaytarilmasi_uchun_portalda
+_3_milyona_yaxin_istifadechi_qeyde_alinib-3101006
+12https://azertag.az/xeber/oten_il_istehlakchilara_qaytarilan_edv
+_nin_meblegi_154_milyon_manati_otub-2880952
+13 https://azertag.az/xeber/istehlakchilara_400_milyon_mana
+tdan_chox_edv_meblegi_geri_qaytarilib-2538410 
+Фінанси та оподаткування
+20 Облік і фінанси, № 4(106), 2024
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+Consent under General Data Protection Regulation
+(GDPR) Article 4(11) is "any freely given, specific,
+informed and unambiguous indication of the data
+subject's wishes by which he or she, by a statement or by
+a clear affirmative action, signifies agreement to the
+processing of personal data relating to him or her"
+(GDPR, 2016). The GDPR does not define the concept of
+explicit consent, but the European Data Protection Board
+(EDPB) states that "The term explicit refers to the way
+the data subject expresses consent" (EDPB 2020b, 20).
+Explicit consent is required under the GDPR in cases
+where there is a high risk related to the data type and the
+data used by the subject, and a high level of control is
+necessary (WBG, 2021).
+According to the EDPB, the explicit consent should
+structurally contain the following features (EDPB 2020b):
+· In addition to being goal-oriented and informative,
+the explicit consent must be clearly and comprehensibly
+presented to the client with the rules and other
+information;
+· According to Article 4(11) of the GDPR, the data
+subject must give explicit consent in a completely free
+and independent manner without coercion, deception,
+intimidation, or other nuances;
+· Withdrawal of explicit consent given by the data
+subject is legally the customer's right and is legally
+reflected in Article 7(3) of the GDPR. In addition, if
+explicit consent is given by the data subject with options
+such as "click, swipe, and keystroke," it should be
+possible to withdraw it in the same form and at any time.
+Also, explicit consent given through any web page or
+application interface must provide the client with the
+possibility of withdrawal through that interface, and the
+client should not suffer any financial loss during the
+withdrawal of consent;
+· Confirmation of explicit consent by the data
+subject should not only involve digital acceptance with a
+simple click but should also include two-step verification.
+In this case, the confirmation of the explicit consent given
+by the data subject will be considered valid. During the
+two-stage verification, in connection with the
+confirmation of the explicit consent, the data controller
+(the controller) sends the legislation and other regulations
+containing the explicit consent to the data subject by
+email. The data subject then receives a clickable
+confirmation link or SMS message confirmation code
+upon acceptance of this agreement.
+Below is an example of a brief description of explicit
+consent in the M10 fintech mobile application, which
+includes account information and payment initiation
+services related to open banking by PashaPay, an
+Electronic Money Institution licensed by the Central
+Bank of the Republic of Azerbaijan:
+"When registering for the use of M10 fintech, sending
+and offering information about services and products to
+the customer based on the "Consent on Personal Data,"
+collection, processing, and transfer of data within the
+framework of the agreement (also cross-border),
+information about the customer that carries Bank secrecy
+is transferred to Pasha Holding, its subsidiaries and it
+can be provided and accessed by other entities belonging
+to the Pasha Holding group, "Bakcell" LLC,
+"Azerconnect" LLC, "Azercell" LLC and other third
+parties. Data is stored, archived, and destroyed within
+the framework of this consent agreement, as well as the
+right to withdraw consent by applying to PashaPay at the
+customer's request."
+The M10 fintech explicit consent does not include the
+following according to the explicit consent structure
+outlined by the EDPB:
+· Although the explicit consent given is by
+"keystroke," the customer must apply to request
+PashaPay to withdraw the explicit consent;
+· Lack of two-step verification of explicit consent
+validation;
+· Failure to provide explicit consent withdrawal
+functionality through the application interface;
+· Not providing a choice of what data to share on
+open banking.
+Also, other open banking license TPPs do not comply
+with the open consent structure defined by the EDPB and
+reflect the inconsistencies mentioned above.
+Obtaining customer financial information based on
+the Privacy policy of M10 fintech14:
+· Payment account information and details
+organization;
+· Payment transaction, credit, debit and other
+payment card details;
+· Details regarding the organization that is servicing
+to your accounts;
+· Credit history and loan repayment schedule;
+· Amounts of funds in your payment accounts.
+In addition, another fintech named "CIB by
+FinDynamix" operates on open banking in Azerbaijan.
+However, this fintech has not obtained any license from
+the Central Bank of the Republic of Azerbaijan regarding
+implementing open banking operations. In addition, we
+can note that "CIB by FinDynamex" is a product of
+"CIBPay" and is licensed by the Central Bank to operate
+as a payment institution. In connection with the open
+banking services of "CIB" fintech, it is stated in clause
+4.1. of the "User Agreement"15:
+"If the bank card added by the User to the Program
+belongs to a bank with which the Company has signed an
+agreement on open banking, the User allows the card
+account information to be displayed in the Program and
+processed by the Company and does not object."
+The AniPay16 portal, created by the Central Bank of
+Azerbaijan, includes implementing transfers and
+payments on the Ani Payment System via the mobile
+application and the web. AniPay mobile application
+provides clients of participating banks access to digital
+banking services through the Instant Payment System.
+AniPay mobile application provides open banking
+services to clients. AniPay functionality has already been
+presented to customers in the mobile applications of 15
+listed banks (Ali Kerim, 2024). In addition, in connection
+with the use of AniPay functionality through the Banks'
+mobile applications, customers are required to confirm a
+
+14 https://m10.az/en/privacy-policy
+15 https://findynamix.com/agreement.html
+16 https://anipay.az/anipay-portal 
+Finance & Taxation
+Oblìk ì fìnansi [Accounting and Finance], Issue 4(106), 2024 21
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+consent application that carries bank secrecy and includes
+the sharing of personal data. Also, as an example, the
+expression "the right to withdraw the consent by
+approaching the bank" for the withdrawal of the consent
+given for AniPay through Birbank, which is a Kapital
+bank mobile application, is mentioned, which is
+completely contrary to the features of the open consent
+for open banking according to the EDPB.
+Banks, when implementing open banking in
+Azerbaijan, mainly consider the advantages of
+transparency and increased customer satisfaction related
+to the sharing and management of customer information
+more than the sale of services and products (CBAR).
+However, with the introduction of open banking, the
+advantage that TPPs will create over banks with payment
+initiation and account information services may force
+banks to change their current course of action and act as
+data custodians.
+In addition to the fact that 72% of banks do not
+provide their services and products to the TPPs,
+legislation on the implementation of open banking was
+not adopted during this survey period. Although 60% of
+the surveyed banks associated the lack of regulation in
+Azerbaijan as the main issue in the application of open
+banking, even though a year has passed, the banks have
+not widely and continuously implemented information,
+news, and informative activities related to open banking.
+While the Central Bank encourages the public to use open
+banking through educational information and the
+importance of open banking, TPPs are determined to be
+the main party in promoting open banking (CBAR).
+Suppose it is possible to feel the low information process
+related to open banking around the immediate
+environment. In that case, it is difficult for an ordinary
+citizen to obtain information related to open banking
+without personal research. So, the parties involved in the
+open banking model must take serious steps to spread this
+understanding.
+Figure 2. Results of the survey conducted by the Central Bank on open banking in 2021
+Source: CBAR (2021).
+There are expectations that up to 84% of banks will
+offer open banking to customers through the centralized
+platform of the Central Bank of the Republic of
+Azerbaijan. Because the number of fintechs in Azerbaijan
+is currently small, with the emergence and development
+of new fintech, CBAR acting as a supervisory body in
+open banking and applying and constantly developing
+more appropriate and innovative standards in security
+matters, it would be more appropriate to present them
+with a centralized platform. 40% of fintech participating
+in the conducted survey stated that API-based payment
+and financial services are provided to customers, but
+20% stated that the level of information related to open
+banking was insufficient, 30% stated that information
+was available, and 10% said that API-based services are
+planned to be provided soon. 80% of fintech companies
+mentioned that information concerning payment
+services is obtained through the Central Bank of the
+Republic of Azerbaijan and the Electronic Government
+Information System (EGIS). With the introduction of
+open banking, customers will gain transparency and
+increase their sales of services and products. Banks
+believe that it takes between 6 months and one year to
+implement open banking, while FinTech believes that
+open banking can be implemented within six months.
+Today, FinTech responds to innovation and
+compliance more flexibly than banks. 40% of fintech
+includes the mandatory participation of all banks in
+implementing open banking, as well as the approach of
+initially gradually involving important banks in the
+system and then sequentially participating other banks
+(CBAR). Towards the end of 2022, the integration of the
+banks operating in Azerbaijan into the open banking
+platform was completed, and the integration of the TPPs
+was continued (Abbasov, 2022).
+96%
+44%
+92%
+72%
+84%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+Support data sharing
+with APIs
+Support data sharing
+with TPPs
+Mutual activities with
+TPPs
+Services and
+products are not
+provided to TPPs
+Open banking will be
+offered with a
+centralized platform
+Banks
+Фінанси та оподаткування
+22 Облік і фінанси, № 4(106), 2024
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+Table 1. Development of open banking institutions in the Republic of Azerbaijan
+Electronic Money Institutions Payment Institutions
+Name of the institution The date of acquisition of
+the license
+Name of the institution The date of acquisition of
+the license
+"A-Solutions Electronic
+Money Institution" LLC
+16.05.2024 "Token Azərbaycan" LLC
+– Odero
+16.05.2024
+"United Payment" LLC 16.05.2024 "Global İnnovations" LLC
+– Epoint
+31.07.2024
+"Modenis" LLC 05.06.2024 "Drakaris" LLC – Yığım 31.07.2024
+"PashaPay" LLC 27.06.2024 "Multi Solutions" LLC –
+Msolution
+28.08.2024
+"Mobile Payment
+Solutions" LLC
+08.07.2024 "M.A.X Sistemləri Plyus"
+LLC
+12.09.2024
+"Mpay" CJSC 11.07.2024 "CİBPAY" LLC 12.09.2024
+"Paysis" LLC 11.07.2024 "Fizza Pay" LLC 28.08.2024
+"Qoldenpey" OJSC 17.07.2024 "Kabox" LLC 18.09.2024
+"PulPal" LLC 24.07.2024
+"K Group" LLC
+(BakıKart)
+12.09.2024
+"Azerikard" LLC 12.09.2024
+"Payriff" CJSC 31.07.2024
+"Greentek Group" LLC 18.09.2024
+Note: Licensed activity – carrying out cash inflow
+and/or outflow operations on the payment account,
+carrying out payment transactions by means of credit
+transfer, direct debit, payment card or other payment
+instruments, depositing funds to and/or from the
+payment account, credit transfers, direct executing
+payment transactions using credit transfer, direct debit,
+payment card or other similar payment instruments,
+acquiring of payment transactions, money remittances,
+issuing e-money and execution of payment operations
+with electronic money, payment initiation service,
+account information service, mediation service for
+conducting payment transactions, money transfers.
+Note: Licensed activity – acquiring payment
+transactions.
+Source: https://www.cbar.az/page-853/electronic-money-institutions
+ https://www.cbar.az/page-854/payment-institutions
+Table 2. Assessment of open banking services of electronic money organizations and payment organizations
+licensed by the Central Bank of the Republic of Azerbaijan
+TPPs API Consent/ Explicit
+consent TPPs established by banks
+TPPs which
+has an open
+banking
+service
+license
+The potential
+of future open
+banking
+services
+1 2 3 4 5 6
+AniPay (Anipay) Yes Yes
+Yes, Central Bank of
+Azerbaijan Republic
+Yes *- (AISP/PISP)
+Akart ("ASolutions
+Electronic Money
+Institution" LLC)
+Yes Yes
+Yes, Pasha Bank
+*Azercell
+*AzInTelecom
+*Visa
+(other partners)
+Yes *- (AISP/PISP)
+United Payment
+"United Payment"
+LLC
+Yes Yes No No Yes
+ 
+Finance & Taxation
+Oblìk ì fìnansi [Accounting and Finance], Issue 4(106), 2024 23
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+Table 2: Continued
+1 2 3 4 5 6
+eManat
+("Modenis" LLC) Yes -/ No No No Yes
+M10 ("PashaPay" LLC) Yes Yes17 Yes, Kapital Bank Yes *- (AISP/PISP)
+Portmanat "Mobile
+Payment Solutions"
+LLC
+Yes Yes/No No No Yes
+Mpay "Mpay" CJSC Yes Yes/ No No No Yes
+Epul.az
+"Paysis" LLC Yes Yes/ No No No Yes
+PulPal
+"PulPal" LLC Yes Yes/ No No Yes *- (PISP)
+Goldenpay.az
+Hesab.az
+"Goldenpay" OJSC
+Yes Yes No Yes *- (AISP)
+Baki Kart
+"K Group" LLC Yes - No No No
+Tezpay
+Tezödə
+"Azerikard" LLC
+Yes Yes/ No
+No,
+*"Azericard" LLC is
+the first processing
+centre in the Republic
+of Azerbaijan
+No Yes
+Payriff
+"Payriff" CJSC Yes Yes/ No No No Yes
+Greentekpay
+"Greentek Group" LLC Yes Yes/ No
+No
+*Partnership –
+YapıKrediBank,
+Unibank
+Yes *- (PISP)
+Odero "Token
+Azərbaycan" LLC"
+Yes Yes/ No No No Yes
+Epoint
+"Global İnnovations"
+LLC – Epoint
+Yes Yes/ No No No Yes
+Yığım "Drakaris"
+LLC – Yığım
+Yes - No No Yes
+Msolution "Multi
+Solutions" LLC
+Yes - No Yes *- (AISP/PISP)
+Maxsystems.az
+Pay2net.az
+Exezine.az
+"M.A.X Sistemləri
+Plyus" LLC
+Yes Yes/ No No No Yes
+Cibpay
+"CİBPAY" LLC Yes - No No Yes
+Fpay
+"Fizza Pay" LLC Yes Yes No Yes *- (PISP)
+Kashpay
+"Kabox" LLC - - - - -
+Note: *An open banking service license AISP/PISP is currently available.
+Source: Data collected by the author.
+
+
+17 Information about privacy and explicit consent is provided to users within the M10 mobile application.
+https://m10.az/istifade-qaydalari 
+Фінанси та оподаткування
+24 Облік і фінанси, № 4(106), 2024
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+The author encountered some limitations while
+collecting the necessary data for the study. In particular,
+Yığım "Drakaris" LLC's information about the agreement
+was unavailable due to the web page not working.
+Msolution "Multi Solutions" LLC and Cibpay "CİBPAY"
+LLC information about the agreement was unavailable on
+the website. There is no data availability because the Baki
+Kart "K Group" LLC mobile application is not working.
+Although "Kabox LLC" is licensed as a payment
+institution, information is unavailable as it does not have
+a website.
+AniPay, "Multi Solutions" LLC, "PashaPay" LLC and
+"A-Solutions Electronic Money Institution" LLC are
+authorized to operate as an open banking account
+information service and payment initiation service
+provider. Like TPPs, M10 (PashaPay) digital wallet and
+Akart (Azercell), which was established by the joint
+activities of Pasha Bank, Visa, and AzInTelecom, will
+introduce digital card service to customers. Greentekpay
+"Greentek Group" LLC, "Pulpal" LLC and Fpay "Fizza
+Pay" LLC are licensed as a payment initiation service
+provider for open banking, and "Goldenpay" OJSC is
+licensed as an account information service provider. 38%
+of licensed electronic money institutions and payment
+institutions can provide open banking services to
+customers. Only 63% of TPPs providing open banking
+services include explicit consent. Others generally
+include a customer agreement and privacy policy on
+transactions. Payment organizations can make digital
+payments with intermediary services, and TPPs with an
+electronic money organization license have the potential
+to manage, control, and make payments through the
+Instant Payment System for open banking services.
+Figure 3. Open banking service capabilities of electronic money institutions and payment institutions
+(August 2024)
+Source: Data processed by the author.
+Not only did no bank participate in the open banking
+survey we sent to the Azerbaijani banks, but they also did
+not respond in an informative manner. Only
+AzerTurkBank emphasized that it does not participate in
+such surveys. The availability of information on the steps
+and activities related to open banking in Azerbaijan for
+2021-2024 is at a low level.
+DISCUSSION
+The first step regarding introducing open banking in
+Azerbaijan was in 2021. As of 2024, open banking
+legislation, security, and responsibilities of parties
+participating in open banking have been clarified, and
+licenses have been provided to TPPs. However, compared
+with the United Kingdom and European Union (EU)
+legislation, open banking legislation was adopted after a
+6-year delay in Azerbaijan. Based on the survey
+conducted by the Central Bank in 2021 and the real
+situation in 2024, it is possible to note that the legalbased problem mentioned as 60% has been fully resolved.
+It is possible to note that the number of TPPs that include
+open banking service is 8 in Azerbaijan, and when
+compared to the United Kingdom, the number of TPPs on
+open banking is 232. As of July 2024, the number of
+people using open banking was 10 million in the United
+Kingdom (Open Banking marks, 2024), which is equal to
+the population of Azerbaijan, in addition to the number of
+TPPs being 26 times more. The currently limited range of
+open banking services and products does not allow us to
+use the expression "fully implemented" at the application
+level.
+Explicit consent is one of the fundamental parts of
+using open banking and must include the structural
+features covered by the EDPB. Challenges such as twostep verification, easy withdrawal of consent, and lack of
+choice about what financial information is shared have a
+direct negative impact on the customer experience and
+usability of open banking. Also, it is a serious nuance that
+there is no free choice during the sharing of financial
+information and that the list of information to be obtained
+63%
+38%
+100%
+71%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+Explicit consent Open banking service API support Mobile Application
+Finance & Taxation
+Oblìk ì fìnansi [Accounting and Finance], Issue 4(106), 2024 25
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+by the TPPs is presented with consent as a template.
+The current TPPs in Azerbaijan do not cover these
+structural features, which remains the main problem.
+This problem should be solved with strict control and
+instructions initiated by the Central Bank.
+According to the research, the future open banking
+potential of current TPPs is 80%. In addition, the mobile
+application ownership rate of TPPs is rated as 71%, and
+API support is rated as 100%. However, although all
+TPPs have API support, only TPPs supporting open
+banking services are considered to contain the Berlin
+Group API standard. The development of independent
+TPPs on open banking is currently weak in Azerbaijan,
+and certain steps must be taken to increase it. In general,
+it is possible to see the formation of development and
+innovative approaches based on competition. However,
+competition in open banking between parties is low in
+Azerbaijan, and 37.5% (3 of 8) of licensed TPPs of open
+banking services were established by banks, which
+dominate the financial sector.
+The availability of literature and general information
+on open banking in Azerbaijan, as well as open banking
+services, products, and other infographic information
+provided by licensed TPPs, is currently low. In addition,
+none of the banks responded to our survey on open
+banking. This lack of response has made it challenging to
+conduct thorough research that considers all the different
+aspects and activities related to open banking.
+CONCLUSION
+Accelerating the adoption of open banking worldwide
+plays a crucial role in laying the foundation for future
+open finance and open data concepts, which also are one
+of the main factors that include its absolute application.
+Open banking is an approach that increases the
+accessibility of financial services and products while
+allowing customers to control their data and share it
+securely with third-party providers. The accessibility of
+information on the implementation and current progress
+of open banking is high in many countries worldwide;
+however, it remains comparatively low for Azerbaijan.
+This article reflects a comprehensive study encompassing
+all stages of implementing open banking in Azerbaijan.
+The years 2023-2024 are the initial stage for
+implementing open banking in Azerbaijan and its further
+development. Over the past two years, the Central Bank
+of the Republic of Azerbaijan has taken legislative,
+security, and license-based steps to expand the scope of
+open banking. In 2024, many existing fintech or thirdparty suppliers (TPPs) in the financial sector have
+successfully acquired electronic money institution or
+payment institution licenses. Notably, 38.1% of TPPs
+have included open banking services, which is expected
+to accelerate the development of the open banking model.
+While the steps to be implemented to increase the use
+of open banking in Azerbaijan are mentioned in detail,
+the main nuance, the price difference, security, and trust,
+will significantly affect users' inclination to open
+banking. Azerbaijan's current open banking development
+follows the regulatory-based European model and the
+Berlin Group standard for API security. It is considered
+more secure than other market-based and hybrid
+approaches in ensuring customer safety in open banking.
+For the faster development of the open banking model
+in Azerbaijan, features such as ease of use, speed of
+transactions, security, elimination of forced dependence
+on multiple banking applications using TPPs, and the
+ability to control personal financial data features should
+be presented to the society with social networks, and
+other by means. As we mentioned the high role of banks
+in the high use of digital banking, TPPs should play the
+main role in increasing the use of open banking, and the
+Central Bank of the Republic of Azerbaijan as a
+regulatory body is of great importance in the expansion of
+the use of open banking.
+4 References
+Abbasov, E. (2022). Mərkəzi Bank: "Bankların açıq bankçılıq platformasına inteqrasiyası başa çatıb". Report.
+Retrieved from https://report.az/maliyye-xeberleri/merkezi-bank-banklarin-aciq-bankciliq-platformasinainteqrasiyasi-basa-catib/
+Babina, T., Bahaj, S. A., Buchak, G., De Marco, F., Foulis, A. K., Gornall, W., ... & Yu, T. (2024). Customer data
+access and fintech entry: Early evidence from open banking (No. w32089). National Bureau of Economic Research.
+https://doi.org/10.3386/w32089
+Bank for International Settlements. (2019). Report on open banking and application programming interfaces (APIs).
+Retrieved from https://www.bis.org/bcbs/publ/d486.htm
+Berlin Group. (n.d.). PSD2 Access to Bank Accounts. 20. Retrieved from https://www.berlin-group.org/psd2-access-tobank-accounts
+CBAR. (2022). AZIPS moves to ISO20022. Retrieved from https://www.cbar.az/press-release-3709/mrkzi-bank-trfindnreal-vaxt-rejimind-banklararasi-hesablasmalar-sisteminin-iso20022-beynlxalq-standartina-kecidi-tminedilmisdir?language=en
+Central Bank of Azerbaijan Republic. (2021). Open Banking Road Map. Retrieved from
+https://uploads.cbar.az/assets/98ce036fa58c999a6e2874dfe.pdf
+EBA. (2016). Understanding the business relevance of Open APIs and Open Banking for banks. EBA Working Group
+on Electronic Alternative Payments. Retrieved from https://www.abe-eba.eu/media/azure/production/1522/businessrelevance-of-open-apis-and-open-banking-for-banks.pdf
+European Data Protection Board. (2020). Guidelines 05/2020 on consent under Regulation 2016/679 Version 1.1.
+Retrieved from https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_consent_en.pdf 
+Фінанси та оподаткування
+26 Облік і фінанси, № 4(106), 2024
+p-ISSN 2307-9878, e-ISSN 2518-1181, www.afj.org.ua
+GDPR. (2016). Regulation (EU) 2016/679 (General Data Protection Regulation). Retrieved from https://gdprinfo.eu/art-4-gdpr/
+Güney, G. (2023). Bankacılık Sektöründe Açık Bankacılık Faaliyetlerinin Önemi: Türkiye ve Dünyadaki Uygulama
+Örnekleri. Ekonomi ve Finans Politikaları Üzerine Çalışmalar. (pp. 279-297). Gaziantep: Özgür Yayınları.
+Retrieved from https://www.ozguryayinlari.com/site/catalog/download/68/279/699
+Həsənov, S. (2022). AMB: "Azərbaycanda açıq bankçılıq modelinin tətbiqi müxtəlif xidmət haqlarını azaldacaq".
+Banker. Retrieved from https://banker.az/amb-az%C9%99rbaycanda-aciq-bankciliq-modelinin-t%C9%99tbiqimuxt%C9%99lif-xidm%C9%99t-haqlarini-azaldacaq/
+Heybətov, T. (2021). İnnovativ yanaşmaların Azərbaycanda tədbiqi: Açıq Bankçılıq. APA. Retrieved from
+https://aba.az/maliyy%C9%99-savadligi/m%C9%99qal%C9%99l%C9%99r/
+Kerim, A. (2024). Son aylar ərzində banklarla səmərəli əməkdaşlığımız çərçivəsində siyahımız böyüdü. Nəticədə artıq
+15 bankın mobil tətbiqində AniPay funksionallıları mövcuddur. LinkedIn. Retrieved from
+https://tr.linkedin.com/posts/alikerim_anipay-centralbank-activity-7209436581118517248-m6tb
+Mastercard. (2021). Open Banking Readiness Index: The Future of Open Banking in Europe. Mastercard. pp.7.
+Retrieved from https://b2b.mastercard.com/media/dbgokjhs/open-banking-readiness-index-2021-report-mastercardpcm-download.pdf
+Mərkəzi Asiya ölkələrinin bank nümayəndələrini görüşü keçirilib. (2024). Azertag. Retrieved from
+https://azertag.az/xeber/merkezi_asiya_olkelerinin_bank_numayendelerini_gorusu_kechirilib-3056350
+OECD. (2023). Shifting from open banking to open finance: Results from the 2022 OECD survey on data sharing
+frameworks. OECD Business and Finance Policy Papers, No. 24, OECD Publishing, Paris.
+https://doi.org/10.1787/9f881c0c-en
+O'Leary, K., O'Reilly, P., Nagle, T., Papadopoulos-Filelis, C., Dehghani, M. (2021). The sustainable value of open
+banking: Insights from an open data lens. Paper presented at the 54th Hawaii International Conference on System
+Sciences, Grand Wailea, Maui, Hawaii (pp. 5891–5901). Retrieved from https://hdl.handle.net/10125/71333
+Open banking. (2024). Open banking marks a major milestone of 10 million users. Retrieved from
+https://www.openbanking.org.uk/news/open-banking-marks-major-milestone-of-10-million-users/
+Osmanov, F. (2021). Azərbaycanda açıq bankçılığın tətbiqinə hazırlıq gedir. Report. Retrieved from
+https://report.az/maliyye-xeberleri/azerbaycanda-aciq-bankciligin-tetbiqine-hazir-gedir/
+Osmanov, F. (2022). Azərbaycanda açıq bankçılıq standartları hazırlanır. Report. Retrieved from
+https://report.az/maliyye-xeberleri/azerbaycanda-aciq-bankciliq-standartlari-hazirlanir/
+Osmanov, F. (2023a). "Açıq bankçılıq" maliyyə inklüzivliyini artıracaq. Vergiler. Retrieved from
+https://vergiler.az/news/economy/27056.html
+Osmanov, F. (2023b). AMB gələn ildən "açıq bankçılığı" daha çox təşviq etməyə başlayacaq. Azertag. Retrieved from
+https://azertag.az/xeber/bas_direktor_amb_gelen_ilden_achiq_bankchiligi_daha_chox_tesviq_etmeye_baslayacaq2837343
+Plaitakis, A., & Staschen, S. (2020). Open banking: How to design for financial inclusion. Consultative Group to Assist
+the Poor (CGAP) Working Paper. Retrieved from https://documents1.worldbank.org/
+curated/en/351881625136775280/pdf/Open-Banking-How-to-Design-for-FinancialInclusion.pdf?_gl=1*1bxl0q7*_gcl_au*MTE2OTYzMDgyNS4xNzI0NzY2Njg4
+World Bank Group. (2021). The Role of Consumer Consent in Open Banking: financial inclusion support framework.
+Finance, Competitiveness & Innovation Global Practice. Retrieved from
+https://documents1.worldbank.org/curated/en/099425002082230437/pdf/P1705050aeb8e704f088260f228802b73b8.pdf
+Zeynalova, A. (2024). From Closed Banking to Open Banking: Risks and Opportunities. Journal of Applied Business,
+Taxation and Economics Research, 3(3), 303–316. https://doi.org/10.54408/jabter.v3i3.278
+Zhou, L., Shi, C. X., Chen, S. L., & Di Liu, Y. (2022). Research on the development of open banking in China under
+the background of internet finance. In Proceedings of the International Conference on Information Economy, Data
+Modeling and Cloud Computing, ICIDC 2022, 17-19 June 2022, Qingdao, China. https://doi.org/10.4108/eai.17-6-
+2022.2322702
+ 
